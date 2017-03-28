@@ -12,7 +12,7 @@
     "sprite"
   ],
   "devDependencies": {
-    "benchmark": "^2.1.0",
+    "benchmark": "^2.1.4",
     "bin-pack": "1.0.2",
     "coveralls": "^2.11.12",
     "documentation": "4.0.0-beta5",
